@@ -1,7 +1,0 @@
-title = "Esthers New Site"
-baseURL = "http://example.org/"
-languageCode = "en-us"
-
-[Params]
-  Author = "Esther Wieringa"
-  
